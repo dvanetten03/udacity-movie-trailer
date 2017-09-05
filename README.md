@@ -1,5 +1,7 @@
-# Movie Trailer Website Starter Code for Udacity Programming Fundamentals Project
+## Movie Trailer
+=(=*120)
 
-Source code for a Movie Trailer website.
+Project Overview
+
 
 
