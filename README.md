@@ -15,5 +15,3 @@ I use Python 2.7 for my programming, so you'll at least need that. You can downl
 ### License
 
 This project is licensed under the MIT License. See license.md file.
-
-
