@@ -1,4 +1,4 @@
-## Movie Trailer 
+## Movie Trailer Version 1.0 9/7/2017
 
 ### Project Overview
 
