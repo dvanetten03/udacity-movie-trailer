@@ -23,9 +23,9 @@ wonder_woman = media.Movie(
 
 the_hobbit = media.Movie(
     "The Hobbit",
-    "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a"
+    "A reluctant hobbit, Bilbo Baggins, sets out on a journey with a"
     "spirited group of dwarves to reclaim their home",
-    "https://i.pinimg.com/736x/01/aa/51/01aa51decf00c3418b54bd828b919494.jpg",  # NOQA
+    "http://cdn.collider.com/wp-content/uploads/hobbit-unexpected-journey-imax-poster-andy-serkis.jpg",  # NOQA
     "https://www.youtube.com/watch?v=nOGsB9dORBg")
 
 the_avengers = media.Movie(
@@ -36,7 +36,7 @@ the_avengers = media.Movie(
 
 zero_dark_thirty = media.Movie(
     "Zero Dark Thirty",
-    "The Greatest Manhunt in History for Bin Laden",
+    "The Greatest Manhunt in History",
     "http://static.metacritic.com/images/products/movies/8/a22d5b5f78fbbea4f6f8f19b6dbd00e5.jpg",   # NOQA
     "www.youtube.com/watch?v=mejkiIvnkzY")
 
