@@ -8,7 +8,7 @@ Server-side code to store a list of my favorite movies, including box art imager
 
 #### Prerequisites
 
-I use Python 2.7 for my programming, so you'll at least need that. You can download here:  https://www.python.org/downloads/
+Use Python 2.7 for this program, so you'll at least need that. You can download here:  https://www.python.org/downloads/
 
 #### Deployment
 The source code files needed for this program to run will need to be cloned from Github (dvanetten03/udacity-movie-trailer
